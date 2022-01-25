@@ -1,0 +1,14 @@
+{
+  "name": "com.elzach.pathfinding",
+  "description": "Generic implementation of A*",
+  "author": { "name":"elZach", "email":"dontmessageme","url":"-" },
+  "version": "0.0.1",
+  "unity": "2022.1",
+  "unityRelease":"0a1",
+  "displayName": "elZach Pathfinding",
+  "keywords": [ "unity" ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/felix.reinemann/elzach-objectpooling"
+  }
+}
